@@ -1,0 +1,13 @@
+requisitos:
+
+- vs Code
+- node 
+    nesse site ensina: https://www.geeksforgeeks.org/installation-of-node-js-on-linux/
+
+- Docker 
+    neste site ensina: https://phoenixnap.com/kb/install-docker-on-ubuntu-20-04
+
+- git
+
+https://github.com/R-Vktor/docker-start.git
+
